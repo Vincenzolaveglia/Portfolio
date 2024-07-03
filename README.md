@@ -10,7 +10,7 @@ Il repository contiene il codice sorgente del mio portafoglio online, realizzato
 
 Puoi visitare il mio portafoglio online al seguente link:
 
-[Link al Portafoglio](https://vincenzolaveglia.github.io/Portfolio/)
+[Link al Portfolio](https://vincenzolaveglia.github.io/Portfolio/)
 
 ## Contenuti
 
